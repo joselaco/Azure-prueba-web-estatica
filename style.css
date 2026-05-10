@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f2f6ff;
+  color: #222;
+}
+
+.contenedor {
+  max-width: 700px;
+  margin: 100px auto;
+  padding: 40px;
+  text-align: center;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #0078d4;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  background: #0078d4;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #005fa3;
+}
+
+#mensaje {
+  margin-top: 20px;
+  font-weight: bold;
+}
